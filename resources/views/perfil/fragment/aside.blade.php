@@ -1,0 +1,3 @@
+<p class="alert alert-info text-center">
+Desde aqui podemos editar y ver los datos de su perfil...
+</p>

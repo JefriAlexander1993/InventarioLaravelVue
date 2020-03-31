@@ -1,0 +1,3 @@
+<p class="alert alert-info text-center">
+Aqui puedes ver información del inventario existente...
+</p>
